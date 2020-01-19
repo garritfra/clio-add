@@ -1,1 +1,5 @@
-'Hello World' -> print
+fn add n m:
+    n + m
+
+fn addOne n:
+    n + 1
